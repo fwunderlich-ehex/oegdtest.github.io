@@ -1,0 +1,5 @@
+{
+  "issuer": "https://fwunderlich-ehex.github.io/oegdtest.github.io",
+  "jwks_uri": "https://fwunderlich-ehex.github.io/oegdtest.github.io/.well-known/jwks.json",
+  "id_token_signing_alg_values_supported": ["ES256"]
+}
